@@ -1,2 +1,2 @@
 # MERN_project
-![](mearn.jpg)
+![](mern.jpg)
