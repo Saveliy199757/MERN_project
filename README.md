@@ -1,2 +1,2 @@
-# MERN_project
+# STACK MERN AUTH/LOGIN/LOGOUT APP FULLSTACK
 ![](mern.jpg)
